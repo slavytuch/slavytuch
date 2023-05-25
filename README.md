@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @slavytuch
-- 👀 I’m interested in web development on PHP or ASP.NET
-- 🌱 I’m currently learning laravel framework
+- 👀 I’m interested in backend web development on PHP.
+- 🌱 I’m currently learning laravel framework and it's enviroments.
 - 📫 How to reach me:
 
-slavytuch@gmail.com
+slavytuch0@gmail.com
 
 @slavytuch0 on Telegram
 
