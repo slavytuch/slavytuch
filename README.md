@@ -5,7 +5,7 @@
 
 slavytuch0@gmail.com
 
-@slavytuch0 on Telegram
+@v_luchko on Telegram
 
 <!---
 slavytuch/slavytuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
